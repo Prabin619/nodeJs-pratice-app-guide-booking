@@ -1,6 +1,6 @@
 Guide Booking App
 
-This is node js backend app for Guide Bookin
+This is node js backend API app for Guide Booking.
 
 Getting Started
 
@@ -29,6 +29,8 @@ Finally run the Project
 npm start
 
 Your project will run on http://localhost:4000 (Note you can change port in server.js file)
+
+This wil only provide a API no frontend so you can test this using a postman or by creating your own frontend or mobile app to play around the API.
 
 Built With
 Node Js(Express Js Framework).
